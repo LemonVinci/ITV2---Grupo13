@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class DamageableCharacter : MonoBehaviour, IDamageable
-{   public bool disableSimulation = false;
+{   
+    public GameObject healthText;
+    public bool disableSimulation = false;
 
     Animator animator;
     Rigidbody2D rb;
@@ -18,6 +20,11 @@ public class DamageableCharacter : MonoBehaviour, IDamageable
         set {
             if(value < _health) {
                 animator.SetTrigger("hit");
+                RectTransform textTransform = Instantiate(healthText).GetComponent<RectTransform>();
+                textTransform.transform.position = Camera.main.WorldToScreenPoint(gameObject.transform.position);
+
+                Canvas canvas = GameObject.FindObjectOfType<Canvas>();
+                textTransform.SetParent(canvas.transform);
             }
             _health = value;
 

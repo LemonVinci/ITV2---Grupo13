@@ -392,6 +392,7 @@
 "Assets/Characters/Player/SwordHitbox.cs"
 "Assets/Characters/Slime/DetectionZone.cs"
 "Assets/Characters/Slime/Slime.cs"
+"Assets/HealthText.cs"
 "Assets/Interfaces/IDamageable.cs"
 -langversion:9.0
 
