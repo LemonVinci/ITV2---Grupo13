@@ -1,0 +1,4702 @@
+fileFormatVersion: 2
+guid: 86a5871a0cda2405fa8ec042cd441255
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: penguin-sprite_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1926
+        width: 93
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b830a917084404e97d8dcabc2d469d
+      internalID: -865286948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1926
+        width: 95
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313d34927b4b6481a8941f8f50f752cc
+      internalID: -1059172921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1926
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddd94ab2677242528c241fbb6063a87
+      internalID: -1371475626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_3
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1926
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112a95c278660463da457b34e1d26dc9
+      internalID: 2096053549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_4
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1926
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3123c67e51314a2a88708f0e4ee7c88
+      internalID: 627019283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_5
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1926
+        width: 94
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1eba32cd8f384cc6bbfbcb9e0cb6077
+      internalID: -158572053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_6
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1926
+        width: 93
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f5666242f51498abdf125699046cba
+      internalID: -1757487658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_7
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1925
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9d74b32776c430d9a00db6e256ef85
+      internalID: -390152700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_8
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1925
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385a1e4791e844c6c9579f5122489aa3
+      internalID: 317572944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_9
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1927
+        width: 124
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700dd38388b964a08b803630db20390f
+      internalID: 413981438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_10
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1930
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c5788b790344c289d1d26d78752218
+      internalID: 1137196302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_11
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1930
+        width: 103
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db47fd470ce894945ac74855b7e7f99b
+      internalID: -768351525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_12
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1930
+        width: 95
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be69df983b454abd893f67c93d42323
+      internalID: -923631057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_13
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 1930
+        width: 88
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff60b06e7757401198085c66c676604
+      internalID: 784144234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_14
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 1930
+        width: 94
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fc9fa2e535f4cdba38f897754886b5
+      internalID: 2101522112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_15
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1930
+        width: 96
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742cd685941bd4e30a770ada0d0cad20
+      internalID: 1777323474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1799
+        width: 107
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3297c0d29b0e64d3f8685db20e1eb4d2
+      internalID: -978044619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1798
+        width: 115
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbec1c9dd73e4105923442f28fdb3cf
+      internalID: 497779384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_18
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1798
+        width: 124
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de1c43b06dc44916b2b6d24b51d2cc7
+      internalID: -441419201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_19
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1799
+        width: 106
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cbc74764d504a53aed472f40609c4b
+      internalID: -1377518176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_20
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1799
+        width: 107
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea42db744df04516a5e933740d3c558
+      internalID: 1890928590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_21
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1798
+        width: 124
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02eed63f08d7240acb874f2f4cfc24f6
+      internalID: 1591313832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_22
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1798
+        width: 124
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7494d2237cc743abb81d1618a56ebb3
+      internalID: -1227182701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_23
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1798
+        width: 124
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22479eb0524ac43379faa93849a8e6fa
+      internalID: -568965728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_24
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1798
+        width: 124
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c44892c8500647f28b661ad421f603b
+      internalID: 1107108610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_25
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1798
+        width: 124
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c8893e0444448c689004d2c4ec4513
+      internalID: -636985600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_26
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1798
+        width: 124
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661164385da704493a0c0d5b148ec3e9
+      internalID: 2104619949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_27
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1798
+        width: 124
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c01410c7eb646ed8abc5999393614a
+      internalID: -1567151483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1671
+        width: 97
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25c1d624df76457983faeb459b1fc76
+      internalID: 1283275678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_29
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1671
+        width: 97
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7851707a3b79343bf989de58f82f00e3
+      internalID: 895726692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_30
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1681
+        width: 112
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2202a67445654f84ac93cc92769146d
+      internalID: 1052980669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_31
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1676
+        width: 111
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39ef6a723b114e8a8aea0fe059aacf0
+      internalID: 161028017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_32
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1668
+        width: 97
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1350af74d6c60478a9f558a8cf597ad2
+      internalID: -1198453570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_33
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1670
+        width: 104
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe666f58ff28433e95c5d7872adcea1
+      internalID: 831990623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_34
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1675
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2ad837728f4451389ee0e7e81417f3
+      internalID: -1096602452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_35
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1668
+        width: 104
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68202fa486d244af58ceb069d292b6cc
+      internalID: 1796544578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_36
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1667
+        width: 109
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07be28414006a48a4aeda087557a248b
+      internalID: 965179605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_37
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1667
+        width: 93
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9209a10588ed9471d8b16de6ba335cce
+      internalID: 602435151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_38
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1668
+        width: 94
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37365a255c5a94b6aa2ae4f268b74d49
+      internalID: 1726406214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_39
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1670
+        width: 94
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a80f9b57e7e4cfabe2bd998e9864f1
+      internalID: 2107461995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_40
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1542
+        width: 105
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a58cc7bd4f8f4b7b8f0552d5288a435
+      internalID: -1591949275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_41
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1542
+        width: 115
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14c7f7711f94404fbad021b29621d0c
+      internalID: 1835486230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_42
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1542
+        width: 94
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecabc273806e6468ea61932b2fe3c58d
+      internalID: -1641172774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_43
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1542
+        width: 101
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702b0ab0da34848a586bf3232a392197
+      internalID: 1630730781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_44
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1542
+        width: 99
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a404750967ca643df834e5aae24c8d51
+      internalID: 248941313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_45
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1542
+        width: 96
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58ff6ab445af4b3c99d9c1168f96178
+      internalID: 1653193180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_46
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1542
+        width: 97
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c686264bbff4718bb08b6fc4b00999
+      internalID: 1224687573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_47
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1542
+        width: 96
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a41c4869e17f4bac8131de75b41b193
+      internalID: -1793161183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_48
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1547
+        width: 93
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb08afefb7ad406c803c42c09cd57b5
+      internalID: 2075747668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_49
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1547
+        width: 93
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161f1245b3a4848ae88a00a11da8fd36
+      internalID: -199084479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_50
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1545
+        width: 93
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517055b4aabc94cf0bc98f374f57c00d
+      internalID: 359160311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_51
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1542
+        width: 93
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb546f1c53624e069c0a0754124a9ae
+      internalID: -897126686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_52
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 1280
+        width: 367
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c13115d7d0145dfa0e7d03506bd0de
+      internalID: 608240427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_53
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1414
+        width: 88
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578f7854d327347a38cd52cd8ff432f6
+      internalID: -47597397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1413
+        width: 90
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ab4021c0c4b4f2fb2656f68ded16a8
+      internalID: -1210053625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_55
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1413
+        width: 92
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014a796fd58c54ce4a74ebf797843eab
+      internalID: 1791009104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_56
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1413
+        width: 91
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1e10a9efdb34283aa2e2ddf0029850
+      internalID: 1961185428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_57
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1414
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdd7c55c422d4c519ee615534deb66f
+      internalID: -567873456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_58
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1414
+        width: 112
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6880af2df1e4541b76886062d75d8f
+      internalID: 1638855216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_59
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1413
+        width: 90
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf50e10b68d94be6bf8ff71cc446e1c
+      internalID: -1346213812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_60
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1413
+        width: 92
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954613b8c64e94b4fa638d4d008202a4
+      internalID: 240721714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_61
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1413
+        width: 91
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef3d8ce1ac3a40479d59d6faf92b58a
+      internalID: -601638731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_62
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1414
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e6bb3152dcd4804a387bcf3bef9ae7
+      internalID: -453788127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_63
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1414
+        width: 112
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ebb7414fd0448e4882d51ec8cba67a
+      internalID: -1641384751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_64
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1285
+        width: 97
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5113624d3cad4bcfb8508b05117a8ea
+      internalID: 1806833562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_65
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1286
+        width: 98
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b8a4d004d1c4bc8b7ad1c2071c0a2e
+      internalID: 1845570188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_66
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1285
+        width: 97
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cd3d668ad6a41b6ac44f253cd789d0
+      internalID: 1067450640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_67
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1285
+        width: 98
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09229797e941340189704b9c8dc4801f
+      internalID: 552622286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1286
+        width: 98
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef983967245a04208a2294edd76a3833
+      internalID: -1461084239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_69
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1286
+        width: 98
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc373fa0c9ff54826b9f05aa9eca9cb9
+      internalID: -1216364174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_70
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1285
+        width: 97
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf5e08ff84b04903848add37a0067d8
+      internalID: 1525627261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_71
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1286
+        width: 98
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b324aaa5de247a9b519910158c9058
+      internalID: 1651593420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_72
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1285
+        width: 97
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63357e34edbfd4b63a113ea6af356740
+      internalID: -2121927651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_73
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1285
+        width: 98
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7622232b27504d6a9f79e2a28589d5f
+      internalID: -552941564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_74
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1286
+        width: 98
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32eec6bf005384f9986719c32b306aa7
+      internalID: -1650491176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_75
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1286
+        width: 98
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3029ac4ebfbc4f62acf7cd08a7a1a0a
+      internalID: 1153230381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_76
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1158
+        width: 118
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e26420cd571462aa691ea483590a49
+      internalID: -208080182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_77
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1158
+        width: 116
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9814f4406e5e74fb4ad58c225cfde617
+      internalID: -1933582990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_78
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1158
+        width: 114
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372723f9169b74a058aaa16fefca5371
+      internalID: -1186239103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_79
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1158
+        width: 118
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e317205dd044f57a7c928c04f9bd25
+      internalID: -2143005538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_80
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1158
+        width: 118
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff2328fcbe984c298d360b7caa94d94
+      internalID: -1798356075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_81
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1158
+        width: 118
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14c59d47df5b4923a138309d2b2eca5
+      internalID: 1204527580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_82
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1156
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45efc2dd99f74a92a6641b0afab7317
+      internalID: 1309262995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_83
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1156
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c0c727011d54782ad63c8b15f252ac
+      internalID: -258189643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_84
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1158
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c80b00507096476cbcef4cc3f18b138
+      internalID: 643117871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_85
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1156
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a774f983c32b144b9b2ab768b3420c5f
+      internalID: -1105376136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_86
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1158
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7515c64422d48de81a522759ad133b
+      internalID: -1710530301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_87
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1158
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b013840c889e94ab9bbd9e5f910096dc
+      internalID: -1286944413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_88
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1031
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9c68dbaa22a485582a715f5708159b
+      internalID: 121598825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_89
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1031
+        width: 102
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6988ee1bca3784447aecb35c73e7e746
+      internalID: -2091832834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_90
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1031
+        width: 101
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80bddc05562d4f969b88af2e7308f9f
+      internalID: -51346452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_91
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1031
+        width: 96
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4efe5ff1a243420497521378bfb3f36
+      internalID: -1185802700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_92
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1031
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340bf2b279285427196c5bc8a3eb700a
+      internalID: 1445377303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_93
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1031
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282b6d9badd93414c935ba980d3ed85b
+      internalID: 1791243516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_94
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1031
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831c8ac354cf74e41878c6407eff139b
+      internalID: 578892415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_95
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1031
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8c2e087796b4e8782c8136d78b3ccc
+      internalID: -738911547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_96
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1031
+        width: 100
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0067647c7b2f4f43b39b78897bbcc14
+      internalID: -270153020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_97
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1031
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bffe5343e38427397c3e726dbbd82a
+      internalID: -162173992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_98
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1032
+        width: 98
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c31bedb904a472f994bbfaf0911752
+      internalID: -2068475191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_99
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1036
+        width: 124
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca4e14012e384d8797ce72e025b1538
+      internalID: -299361368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_100
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1036
+        width: 124
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc3bbf96c6754d5dbac1a3d674c521c
+      internalID: -1673068834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_101
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1036
+        width: 124
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b136b5597044efd8efda8121dbb4ab
+      internalID: 1265644463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_102
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1032
+        width: 98
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d6ee4da843e4d8b85c872cb8ac2d40
+      internalID: -2028251522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_103
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 902
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf7caf6b3dd24397be9f65743b089b8
+      internalID: 177879028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_104
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 902
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b02230ff7064297a6af95c1b9dced0
+      internalID: -671506905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_105
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 902
+        width: 94
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff514e8ba628440fd8b69bfd9f6c9e84
+      internalID: -757773231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_106
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 902
+        width: 97
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8aec82226afc4b2ea198fced1d1503d
+      internalID: 392444159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_107
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 902
+        width: 94
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa37c32a399541399f0ec478c31dce1
+      internalID: 2103536163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_108
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 902
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ed4dec75f7c4af69ef4fa57fe0400c
+      internalID: 421729125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_109
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 902
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f9f1ad04a2d48ca8cabc296feeedf3
+      internalID: 1986091342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_110
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 906
+        width: 97
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1f9f116633742ee912f36600725a76
+      internalID: 1815973065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_111
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 906
+        width: 97
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a804e7f3bdd7d42ca944fa5c30004158
+      internalID: -1592529136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_112
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 906
+        width: 97
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c917206b91e04208be49eaf2b56f795
+      internalID: 516827548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_113
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 906
+        width: 99
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b02e9f5bbb4644dd9ac74c31f74ac84
+      internalID: 1801730631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_114
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 906
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee39613fdc8be43a49963addd1a0048d
+      internalID: -531031790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_115
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 906
+        width: 99
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b73919c8b684d64b6869bfed9655f3
+      internalID: 160150636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_116
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 906
+        width: 97
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f014568d90d485286b26c9c18af141
+      internalID: -826607135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_117
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 906
+        width: 97
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d376ff26ce9be42e19a5ecc4a5349b05
+      internalID: -1309975238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_118
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 775
+        width: 107
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d851c6cd432784d248dd8ff157c52398
+      internalID: 590116140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_119
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 773
+        width: 98
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb40c617e66d4578a9593b91fc0fb79
+      internalID: 63786114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_120
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 773
+        width: 98
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953556c902a334840baa94f0c4fb45f5
+      internalID: 1479463249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_121
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 773
+        width: 98
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4e05b00791f486cbe849922079b202
+      internalID: 1350156466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_122
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 774
+        width: 103
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148ae7c895ab64c938785b211073f3bb
+      internalID: -393885222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_123
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 774
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a38bd6723024557b1eb403fe2869ff
+      internalID: 1214990319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_124
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 774
+        width: 99
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582641088e01c4ee5a6d77cf8c3bdfd4
+      internalID: 490384184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_125
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 774
+        width: 92
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7bc4acb41ea4aeeae3ac6cc7209594
+      internalID: -883988466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_126
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 775
+        width: 107
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59748598c2ccb49c8b8a0893f076edca
+      internalID: -241100766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_127
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 773
+        width: 98
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6277e732388343d29d32f5b81ad9abc
+      internalID: -1844321258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_128
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 773
+        width: 98
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62345209c58dc48babb7f9fe13725f86
+      internalID: -1133294143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_129
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 773
+        width: 98
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781a7ebee4eaa4cea8d89f84c3c7f7a5
+      internalID: 918929123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_130
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 769
+        width: 80
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106e44a98226746a783981467c5f27bd
+      internalID: 1510385897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_131
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 768
+        width: 60
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867d470d1712b497a84315b9e9c35d38
+      internalID: 1329676093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_132
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 773
+        width: 60
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1e82f43a7c7404b90808c003966c61
+      internalID: -328978806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_133
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 772
+        width: 60
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dc3e495353a41469eaf52899b24cb7
+      internalID: 487569927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_134
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 646
+        width: 91
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92234e7116c4402e89bf3d45603d63a
+      internalID: 1084962308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_135
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 644
+        width: 91
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01664e67718e84f9aa3daba09b8fbf0a
+      internalID: -1519114172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_136
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 642
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8309471b47e0946de81f0e3485c968db
+      internalID: -1101903662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_137
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 644
+        width: 91
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f276e0d443884777a1c3b532b1550d8
+      internalID: 2135072040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_138
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 651
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c670a67cedd5540d196b4391b876d608
+      internalID: 1165248164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_139
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 651
+        width: 91
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900923195f06d4ad6b2a155a4191a096
+      internalID: -1058439126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_140
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 651
+        width: 93
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19eac7d8f4f7645c2b878fe1be6b0f3e
+      internalID: -1896921325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_141
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 651
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143868782f02040849ca7b095d832180
+      internalID: 550531246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_142
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 651
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eeb48960f3624d9eb3307504ec324a0
+      internalID: -1617403544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_143
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 651
+        width: 97
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36aceed1c3fcb43deaefcf94cd2793ca
+      internalID: 484798017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_144
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 647
+        width: 96
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c320b6c2be39b46dabe7c5484209fd98
+      internalID: 1148447785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_145
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 646
+        width: 96
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dabc273dd774e838268484f76dd96f
+      internalID: -916853675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_146
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 644
+        width: 107
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ea8af9e76704134915ad14ce935e1a
+      internalID: 1653353082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_147
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 643
+        width: 116
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a639003f00a4190b6032dac8350a1c
+      internalID: 1749619047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_148
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 644
+        width: 107
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a780f4589cb4f8c90ca91164abf9b3
+      internalID: 1855919804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_149
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 646
+        width: 96
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4c724b561b74a3097cb0b35c9fd7cd
+      internalID: -334231972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_150
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 525
+        width: 88
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8765893321e4188841ee672e1b7669
+      internalID: 2091856485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_151
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 518
+        width: 95
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4162e50894c00419e96caea81e03b017
+      internalID: -1232836118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_152
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 533
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ee0a41a0e814f7692d4128c4b2abba
+      internalID: 1581501198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_153
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 527
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f3a734276f447eead1dabea1295be7
+      internalID: 1393610763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_154
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 520
+        width: 101
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda4079d5769f4cc19bfcb73e9e1b6fb
+      internalID: -656638182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_155
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 520
+        width: 99
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc716e2dafe4b46318cd7f770ded3f02
+      internalID: -1326008658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_156
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 520
+        width: 83
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d386920852d46ac8fddfc3c3ce6b80
+      internalID: -1812849162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_157
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 520
+        width: 82
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d65161d5c63644398b17b6c92e9c24f
+      internalID: -641639943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_158
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 520
+        width: 83
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7176798888e4f71b4139190c35c4dd
+      internalID: 2027752759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_159
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 520
+        width: 83
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8bb31618e9e49cabda1a47003ac750
+      internalID: -1311554628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_160
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 515
+        width: 110
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb62d82894ef5480fa92b174a2f7604e
+      internalID: 175562620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_161
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 384
+        width: 24
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e403a18c29e145c4b424ad28ddb95e5
+      internalID: -1318205064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_162
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 433
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c573565e740d64b28a0ddce296de59af
+      internalID: 872963314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_163
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 417
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bc16bb09d39481c92932d9a30de674
+      internalID: 465783282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_164
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 401
+        width: 65
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293c2f1c67cf34d0882654c86ed2a361
+      internalID: -1466881422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_165
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 385
+        width: 65
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9495c69744bd460482bea80f0289aea
+      internalID: -356025009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_166
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 389
+        width: 30
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b713ee68e0992487791d4a958c67bdf6
+      internalID: 800068906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_167
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 389
+        width: 26
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b2767bfa42d41cd9c24e29fb2b9fcd
+      internalID: 1379199003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_168
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 417
+        width: 26
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345f309bc42b74848b24cde7e0a98784
+      internalID: -1095408347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_169
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 445
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd0a276f8b3446258ba20ead2306c9e
+      internalID: 1025828666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_170
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 471
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d625e7880d7407f9e0b82e57159308
+      internalID: 2016779229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_171
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 394
+        width: 111
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dde1be7aafb43739b7e5794de63f23
+      internalID: 315378012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_172
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 418
+        width: 117
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae56f32eda8174520949be6891550655
+      internalID: -984814738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_173
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 405
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198e0093ae66345dcb5b1a632a2431ae
+      internalID: -1655396439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_174
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 440
+        width: 115
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dfa8c41bebb40d0a8015fb2bcba568
+      internalID: -1125972445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_175
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 430
+        width: 118
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9af1b7481c949f7bff7a998c209f05
+      internalID: -1380335747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_176
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 440
+        width: 121
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373ccce8965d64c149ae3b0413eed085
+      internalID: -81159109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_177
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 300
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0065c63b7f3cd4752b8c7315955c7a26
+      internalID: 1797344188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_178
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 308
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac564dbefdbb49ab9f683a08d567b08
+      internalID: 208369352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_179
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 301
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30a1a8730d8042e5b9e4ada7b171792
+      internalID: -390292334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_180
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 309
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a859f3090fc954e9a979a1b3857a29d0
+      internalID: 335366344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_181
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 298
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab24c715d4c9459981e2d38f018b333
+      internalID: -1755954177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_182
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 311
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff31d8ba89d084204a9e05c1a389cec2
+      internalID: -948350731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_183
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 296
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8f8daebc31249f8ae1220b3458ef61
+      internalID: -2101354803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_184
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 311
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226361011186546f7a26a2c73b02b8d4
+      internalID: 143628123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_185
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 295
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8be5c5ba18ff4153adb14926e3706e6
+      internalID: -1012702023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_186
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 311
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f22764c42af1409dbac02b18594d2eb
+      internalID: -286152773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_187
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 296
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411ab681d0ad04634b53e8c50a29d803
+      internalID: -1198557075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_188
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 305
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fed6c59b99804ca4b0df08231b9e526
+      internalID: 2078545025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_189
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 292
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c745965c0ce34167ba34de970ce4e39
+      internalID: 210165988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_190
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 307
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b271cc2c99c4e44a5a67490a18e6393c
+      internalID: -609400482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_191
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 294
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99902872329584bd497a76d35200d021
+      internalID: 527503959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_192
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 302
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61f7e424d1de417cb971555bf211120
+      internalID: 843886492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_193
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 296
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acb623ae6ed44b12b0ce1172484efa3
+      internalID: -485240772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_194
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 301
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fa5be07e9ea420d97f963fdc312bd3
+      internalID: -1609930974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_195
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 296
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840e2bafd58164f9faa0d6b2e68b87f6
+      internalID: 1501443496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_196
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 300
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decc9e2411a41470e9182141c2d3e09e
+      internalID: 189457090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_197
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 295
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b5c5b4cb4314ae8862be858671957e
+      internalID: 2098878400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_198
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 293
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e628fc0e27a1d4046abf6325174f250a
+      internalID: 1222938107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_199
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 134
+        width: 94
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062d0761ff7ae404ab766e6768f63db3
+      internalID: -483352685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_200
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 134
+        width: 97
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a3894e81bb445a6a1adc2b64264a13
+      internalID: -788158266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_201
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 134
+        width: 97
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6730ae18cedcb466ebc8c627be016571
+      internalID: -987255377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_202
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 134
+        width: 97
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec5858a6d2e54bc5a877cb6bfbec7d8
+      internalID: -1747233235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_203
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 134
+        width: 97
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e700dc1122df34c1385945e678988917
+      internalID: -1407231860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_204
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 134
+        width: 97
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70caa9dc13574494b7bca7d5115050c
+      internalID: -1105420508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_205
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 134
+        width: 97
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42dcd37235f14c0087a4de626aee21c
+      internalID: -1169011566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penguin-sprite_206
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 134
+        width: 94
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8208c239b54b14a9ebd8b51f825474f6
+      internalID: -1327589923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      penguin-sprite_0: -865286948
+      penguin-sprite_1: -1059172921
+      penguin-sprite_10: 1137196302
+      penguin-sprite_100: -1673068834
+      penguin-sprite_101: 1265644463
+      penguin-sprite_102: -2028251522
+      penguin-sprite_103: 177879028
+      penguin-sprite_104: -671506905
+      penguin-sprite_105: -757773231
+      penguin-sprite_106: 392444159
+      penguin-sprite_107: 2103536163
+      penguin-sprite_108: 421729125
+      penguin-sprite_109: 1986091342
+      penguin-sprite_11: -768351525
+      penguin-sprite_110: 1815973065
+      penguin-sprite_111: -1592529136
+      penguin-sprite_112: 516827548
+      penguin-sprite_113: 1801730631
+      penguin-sprite_114: -531031790
+      penguin-sprite_115: 160150636
+      penguin-sprite_116: -826607135
+      penguin-sprite_117: -1309975238
+      penguin-sprite_118: 590116140
+      penguin-sprite_119: 63786114
+      penguin-sprite_12: -923631057
+      penguin-sprite_120: 1479463249
+      penguin-sprite_121: 1350156466
+      penguin-sprite_122: -393885222
+      penguin-sprite_123: 1214990319
+      penguin-sprite_124: 490384184
+      penguin-sprite_125: -883988466
+      penguin-sprite_126: -241100766
+      penguin-sprite_127: -1844321258
+      penguin-sprite_128: -1133294143
+      penguin-sprite_129: 918929123
+      penguin-sprite_13: 784144234
+      penguin-sprite_130: 1510385897
+      penguin-sprite_131: 1329676093
+      penguin-sprite_132: -328978806
+      penguin-sprite_133: 487569927
+      penguin-sprite_134: 1084962308
+      penguin-sprite_135: -1519114172
+      penguin-sprite_136: -1101903662
+      penguin-sprite_137: 2135072040
+      penguin-sprite_138: 1165248164
+      penguin-sprite_139: -1058439126
+      penguin-sprite_14: 2101522112
+      penguin-sprite_140: -1896921325
+      penguin-sprite_141: 550531246
+      penguin-sprite_142: -1617403544
+      penguin-sprite_143: 484798017
+      penguin-sprite_144: 1148447785
+      penguin-sprite_145: -916853675
+      penguin-sprite_146: 1653353082
+      penguin-sprite_147: 1749619047
+      penguin-sprite_148: 1855919804
+      penguin-sprite_149: -334231972
+      penguin-sprite_15: 1777323474
+      penguin-sprite_150: 2091856485
+      penguin-sprite_151: -1232836118
+      penguin-sprite_152: 1581501198
+      penguin-sprite_153: 1393610763
+      penguin-sprite_154: -656638182
+      penguin-sprite_155: -1326008658
+      penguin-sprite_156: -1812849162
+      penguin-sprite_157: -641639943
+      penguin-sprite_158: 2027752759
+      penguin-sprite_159: -1311554628
+      penguin-sprite_16: -978044619
+      penguin-sprite_160: 175562620
+      penguin-sprite_161: -1318205064
+      penguin-sprite_162: 872963314
+      penguin-sprite_163: 465783282
+      penguin-sprite_164: -1466881422
+      penguin-sprite_165: -356025009
+      penguin-sprite_166: 800068906
+      penguin-sprite_167: 1379199003
+      penguin-sprite_168: -1095408347
+      penguin-sprite_169: 1025828666
+      penguin-sprite_17: 497779384
+      penguin-sprite_170: 2016779229
+      penguin-sprite_171: 315378012
+      penguin-sprite_172: -984814738
+      penguin-sprite_173: -1655396439
+      penguin-sprite_174: -1125972445
+      penguin-sprite_175: -1380335747
+      penguin-sprite_176: -81159109
+      penguin-sprite_177: 1797344188
+      penguin-sprite_178: 208369352
+      penguin-sprite_179: -390292334
+      penguin-sprite_18: -441419201
+      penguin-sprite_180: 335366344
+      penguin-sprite_181: -1755954177
+      penguin-sprite_182: -948350731
+      penguin-sprite_183: -2101354803
+      penguin-sprite_184: 143628123
+      penguin-sprite_185: -1012702023
+      penguin-sprite_186: -286152773
+      penguin-sprite_187: -1198557075
+      penguin-sprite_188: 2078545025
+      penguin-sprite_189: 210165988
+      penguin-sprite_19: -1377518176
+      penguin-sprite_190: -609400482
+      penguin-sprite_191: 527503959
+      penguin-sprite_192: 843886492
+      penguin-sprite_193: -485240772
+      penguin-sprite_194: -1609930974
+      penguin-sprite_195: 1501443496
+      penguin-sprite_196: 189457090
+      penguin-sprite_197: 2098878400
+      penguin-sprite_198: 1222938107
+      penguin-sprite_199: -483352685
+      penguin-sprite_2: -1371475626
+      penguin-sprite_20: 1890928590
+      penguin-sprite_200: -788158266
+      penguin-sprite_201: -987255377
+      penguin-sprite_202: -1747233235
+      penguin-sprite_203: -1407231860
+      penguin-sprite_204: -1105420508
+      penguin-sprite_205: -1169011566
+      penguin-sprite_206: -1327589923
+      penguin-sprite_21: 1591313832
+      penguin-sprite_22: -1227182701
+      penguin-sprite_23: -568965728
+      penguin-sprite_24: 1107108610
+      penguin-sprite_25: -636985600
+      penguin-sprite_26: 2104619949
+      penguin-sprite_27: -1567151483
+      penguin-sprite_28: 1283275678
+      penguin-sprite_29: 895726692
+      penguin-sprite_3: 2096053549
+      penguin-sprite_30: 1052980669
+      penguin-sprite_31: 161028017
+      penguin-sprite_32: -1198453570
+      penguin-sprite_33: 831990623
+      penguin-sprite_34: -1096602452
+      penguin-sprite_35: 1796544578
+      penguin-sprite_36: 965179605
+      penguin-sprite_37: 602435151
+      penguin-sprite_38: 1726406214
+      penguin-sprite_39: 2107461995
+      penguin-sprite_4: 627019283
+      penguin-sprite_40: -1591949275
+      penguin-sprite_41: 1835486230
+      penguin-sprite_42: -1641172774
+      penguin-sprite_43: 1630730781
+      penguin-sprite_44: 248941313
+      penguin-sprite_45: 1653193180
+      penguin-sprite_46: 1224687573
+      penguin-sprite_47: -1793161183
+      penguin-sprite_48: 2075747668
+      penguin-sprite_49: -199084479
+      penguin-sprite_5: -158572053
+      penguin-sprite_50: 359160311
+      penguin-sprite_51: -897126686
+      penguin-sprite_52: 608240427
+      penguin-sprite_53: -47597397
+      penguin-sprite_54: -1210053625
+      penguin-sprite_55: 1791009104
+      penguin-sprite_56: 1961185428
+      penguin-sprite_57: -567873456
+      penguin-sprite_58: 1638855216
+      penguin-sprite_59: -1346213812
+      penguin-sprite_6: -1757487658
+      penguin-sprite_60: 240721714
+      penguin-sprite_61: -601638731
+      penguin-sprite_62: -453788127
+      penguin-sprite_63: -1641384751
+      penguin-sprite_64: 1806833562
+      penguin-sprite_65: 1845570188
+      penguin-sprite_66: 1067450640
+      penguin-sprite_67: 552622286
+      penguin-sprite_68: -1461084239
+      penguin-sprite_69: -1216364174
+      penguin-sprite_7: -390152700
+      penguin-sprite_70: 1525627261
+      penguin-sprite_71: 1651593420
+      penguin-sprite_72: -2121927651
+      penguin-sprite_73: -552941564
+      penguin-sprite_74: -1650491176
+      penguin-sprite_75: 1153230381
+      penguin-sprite_76: -208080182
+      penguin-sprite_77: -1933582990
+      penguin-sprite_78: -1186239103
+      penguin-sprite_79: -2143005538
+      penguin-sprite_8: 317572944
+      penguin-sprite_80: -1798356075
+      penguin-sprite_81: 1204527580
+      penguin-sprite_82: 1309262995
+      penguin-sprite_83: -258189643
+      penguin-sprite_84: 643117871
+      penguin-sprite_85: -1105376136
+      penguin-sprite_86: -1710530301
+      penguin-sprite_87: -1286944413
+      penguin-sprite_88: 121598825
+      penguin-sprite_89: -2091832834
+      penguin-sprite_9: 413981438
+      penguin-sprite_90: -51346452
+      penguin-sprite_91: -1185802700
+      penguin-sprite_92: 1445377303
+      penguin-sprite_93: 1791243516
+      penguin-sprite_94: 578892415
+      penguin-sprite_95: -738911547
+      penguin-sprite_96: -270153020
+      penguin-sprite_97: -162173992
+      penguin-sprite_98: -2068475191
+      penguin-sprite_99: -299361368
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
