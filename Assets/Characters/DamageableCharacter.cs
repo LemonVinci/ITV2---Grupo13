@@ -6,7 +6,7 @@ public class DamageableCharacter : MonoBehaviour, IDamageable
 {   
     public GameObject healthText;
     public bool disableSimulation = false;
-
+    public CounterEnemiesSlain enemiesSlain;
     Animator animator;
     Rigidbody2D rb;
     Collider2D physicsCollider;
@@ -31,6 +31,10 @@ public class DamageableCharacter : MonoBehaviour, IDamageable
             if (_health <= 0) {
                 animator.SetBool("isAlive", false);
                 Targetable = false;
+                if (_health == 0){ 
+                    //fix para que no cuente doble el slime matado
+                    enemiesSlain.slimeSlained = enemiesSlain.slimeSlained + 1;
+                } 
             } //tener en cuenta si agregar "animator.SetTrigger("isAlive" = false);"
         }
         get {
@@ -46,8 +50,8 @@ public class DamageableCharacter : MonoBehaviour, IDamageable
         }
         physicsCollider.enabled = value;
     }}
-    
-    public float _health = 5f;
+    public float _maxHealth;
+    public float _health;
     public bool _targetable = true;
     
     //agregue detectionzone y rigidbody2D

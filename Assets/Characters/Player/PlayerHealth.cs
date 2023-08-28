@@ -8,7 +8,9 @@ public class PlayerHealth : MonoBehaviour, IDamageable
 
     public bool Targetable {get => throw new System.NotImplementedException(); set => throw new System.NotImplementedException();}
     
-    public float _health = 3f;
+    public float _maxHealth = 4f;
+
+    public float _health = 4f;
     
     public bool _targetable = true;
 
