@@ -1,12 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System;
 
 public class DamageableCharacter : MonoBehaviour, IDamageable
 {   
+    public event EventHandler MuerteJugador;
     public GameObject healthText;
     public bool disableSimulation = false;
-
+    public CounterEnemiesSlain enemiesSlain;
     Animator animator;
     Rigidbody2D rb;
     Collider2D physicsCollider;
@@ -31,6 +33,10 @@ public class DamageableCharacter : MonoBehaviour, IDamageable
             if (_health <= 0) {
                 animator.SetBool("isAlive", false);
                 Targetable = false;
+                if (_health == 0){ 
+                    //fix para que no cuente doble el slime matado
+                    enemiesSlain.slimeSlained = enemiesSlain.slimeSlained + 1;
+                } 
             } //tener en cuenta si agregar "animator.SetTrigger("isAlive" = false);"
         }
         get {
@@ -46,8 +52,8 @@ public class DamageableCharacter : MonoBehaviour, IDamageable
         }
         physicsCollider.enabled = value;
     }}
-    
-    public float _health = 5f;
+    public float _maxHealth;
+    public float _health;
     public bool _targetable = true;
     
     //agregue detectionzone y rigidbody2D
@@ -69,7 +75,7 @@ public class DamageableCharacter : MonoBehaviour, IDamageable
     {
         if(!Invincible) {
             Health -= damage;
-        
+            
             rb.AddForce(knockback, ForceMode2D.Impulse);
         //Debug.Log("Force" + knockback);
             if(canTurnInvincible){
@@ -89,6 +95,10 @@ public class DamageableCharacter : MonoBehaviour, IDamageable
     }   
     public void OnObjectDestroyed() 
     {
-        Destroy(gameObject);
+        if(Health <= 0)
+        {
+            MuerteJugador?.Invoke(this, EventArgs.Empty);
+            Destroy(gameObject);
+        }
     }
 }
